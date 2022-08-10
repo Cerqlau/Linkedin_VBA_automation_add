@@ -1,0 +1,2 @@
+# Linkedin_automation_add
+Este projeto utiliza a linguagem pura em VBA Excel para automatizar e otimizar o crescimento orgânico da rede Linkedin. Possui módulo de controle admininstrativo e formulário interativo. Faz uso das da método Application e Shell para manipulação do navegador Google Chrome,  toda a iteração com o site é efetuada através de seletores Java Scrip e Xpath. Possui a opção de gerar um arquivo para execução automática, que poderá ser programado através do agendador de tarefa do windows
