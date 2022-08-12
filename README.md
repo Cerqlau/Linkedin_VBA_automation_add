@@ -22,7 +22,7 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 
 3- Foram utilizadas e modificadas API's do Windows para as funções de criação de GUI e alertas, estas não devem ser modificadas.
 
-### ⚙️ Executando o programa
+### ⚙️ Configurando a macro para execução em modo automático
 
 1- Na GUI selecione automático
 
